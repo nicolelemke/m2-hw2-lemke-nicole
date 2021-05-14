@@ -10,12 +10,10 @@ article, aside, details, figcaption, figure, footer, header, main, nav, section,
 
 
 h1 {
-    text-align: center;
     padding: 25px;
 }
 
 .body {
-    text-align: center;
     margin: auto;
 }
 
